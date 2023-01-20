@@ -1,0 +1,11 @@
+[{
+    "username": "mail@britta.de",
+    "password": "Password1*",
+    "productName": "iphone 13 pro"
+},
+{
+    "username": "mail2@britta.de",
+    "password": "OtherPassword*",
+    "productName": "iphone 14 pro"
+}
+]
